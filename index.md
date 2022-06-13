@@ -1,8 +1,8 @@
 ---
-title: Welcome to my Stipid looking blog
+title: Welcome to my Stupid looking blog
 ---
 
-# Hello World!
+# Hello World! Let's Do this
 
 ---
 
@@ -14,4 +14,5 @@ from universe import *
 ```
 
 > IndentationError: expected an indented block
+> 
 > log: Programe Execution Failed. Subject is probably dead.
